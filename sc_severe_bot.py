@@ -42,7 +42,7 @@ import requests
 # CONFIG
 # ============================================================================
 
-USER_AGENT = "sc-severe-bot/2.0 (your.email@example.com)"   # <-- EDIT THIS
+USER_AGENT = "sc-severe-bot/2.0 (preston@precisionpalmettoexteriorremodeling.com)"   # <-- EDIT THIS
 
 # --- Thresholds -------------------------------------------------------------
 HAIL_THRESHOLD_IN = 1.00        # statewide hail trigger
